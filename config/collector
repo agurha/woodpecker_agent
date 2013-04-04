@@ -1,0 +1,2 @@
+input://file:///var/log/nginx/access.log
+output://zeromq://tcp://log_server:5555
